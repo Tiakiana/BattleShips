@@ -68,7 +68,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\BattleShips\Canon.cs" />
+    <Compile Include="Assets\BattleShips\CanonBall.cs" />
+    <Compile Include="Assets\BattleShips\CanonControl.cs" />
+    <Compile Include="Assets\BattleShips\Movement.cs" />
     <Compile Include="Assets\Scripts\Control.cs" />
     <Compile Include="Assets\Test.cs" />
   </ItemGroup>
