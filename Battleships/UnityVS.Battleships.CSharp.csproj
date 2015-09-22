@@ -72,7 +72,9 @@
     <Compile Include="Assets\BattleShips\CanonBall.cs" />
     <Compile Include="Assets\BattleShips\CanonControl.cs" />
     <Compile Include="Assets\BattleShips\Movement.cs" />
+    <Compile Include="Assets\Cannons.cs" />
     <Compile Include="Assets\Scripts\Control.cs" />
+    <Compile Include="Assets\ShipMain.cs" />
     <Compile Include="Assets\Test.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
