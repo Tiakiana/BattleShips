@@ -12,6 +12,7 @@ public class AstarTile : MonoBehaviour {
     public List<GameObject> neighbors = new List<GameObject>();
     public int gridX;
     public int gridY;
+    public GameObject parens;
     void Start() {
 
     }

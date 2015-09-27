@@ -40,15 +40,11 @@ public class GridControl : MonoBehaviour {
                     default:
                         break;
                 }
-
-                
-
-
             }
         }
-
-
 	}
+
+    
 	
 	void Update () {
 	

@@ -9,8 +9,7 @@ public class AstarGrid : MonoBehaviour {
     // Use this for initialization
 
     void Awake() {
-
-
+        
     }
     void Start()
     {
@@ -25,9 +24,7 @@ public class AstarGrid : MonoBehaviour {
                 go.transform.position = new Vector3(x, 0, z);
                 go.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
                 aStarGrid[x, z] = go;
-
-
-
+                
                             }
         }
 
